@@ -1,0 +1,15 @@
+*~
+*.sw*
+.*
+*.b\#*
+*gbl
+*.gbs
+*.gml
+*.gtl
+*.gto
+*.gts
+*.dri
+*.gpi
+hardware/*.txt
+!.gitignore
+
